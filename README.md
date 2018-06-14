@@ -48,7 +48,7 @@ http://pan.baidu.com/s/1xxx
 
 https://pan.baidu.com/s/1xxx
 
-# 项目相关合作者：
+# 项目贡献者：
 
 Matrix 博客：https://www.imwxz.com
 
