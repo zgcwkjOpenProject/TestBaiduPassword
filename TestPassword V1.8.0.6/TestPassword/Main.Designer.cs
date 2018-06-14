@@ -166,7 +166,7 @@
             this.txt_ts.Name = "txt_ts";
             this.txt_ts.Size = new System.Drawing.Size(460, 45);
             this.txt_ts.TabIndex = 8;
-            this.txt_ts.Text = "程序：百度网盘分享文件密码分析器 V 1.8.0.6 PRO\r\n\r\n开源地址：https://github.com/zgcwkj/TestBaiduPasswor" +
+            this.txt_ts.Text = "程序：百度网盘分享文件密码分析器 V 1.8.0.6\r\n\r\n开源地址：https://github.com/zgcwkj/TestBaiduPasswor" +
     "d";
             this.txt_ts.Click += new System.EventHandler(this.txt_ts_Click);
             // 
