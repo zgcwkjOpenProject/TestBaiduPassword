@@ -1,17 +1,14 @@
 # TestBaiduPassword
 百度网盘分享文件密码测试器
 
-源码部分来自 @MXWXZ（https://www.52pojie.cn）
-
-根据 https://www.52pojie.cn/thread-629100-1-1.html 进行优化
-
 关联帖子：https://www.52pojie.cn/thread-680681-1-1.html
+
 
 # 更新历史：
 
 1.8.0.6（2018-06-14）
 
-增加代理服务人口（测试阶段）
+增加代理服务人口（测试阶段） ==》kTWO 提供技术支持
 
 优化逻辑代码，整理代码等
 
@@ -33,9 +30,11 @@
 
 1.0.0.0（0000-00-00）
 
-基本的功能搭建
+基本的功能搭建 ==》Matrix 提供技术支持
 
 其它忘记了
+
+根据 https://www.52pojie.cn/thread-629100-1-1.html 进行优化
 
 # 功能特色：
 
@@ -49,8 +48,14 @@ http://pan.baidu.com/s/1xxx
 
 https://pan.baidu.com/s/1xxx
 
+# 项目相关合作者：
+
+Matrix 博客：https://www.imwxz.com
+
+kTWO 博客：http://www.k2zone.cn
+
 # 关于我：
 
-详细：https://blog.zgcwkj.top
+https://blog.zgcwkj.top
 
-# 本源码仅提供参考，注意使用
+# 本源码仅提供参考，如因本代码出现任何问题和所有开发者无关
