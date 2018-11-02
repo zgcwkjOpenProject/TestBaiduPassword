@@ -75,8 +75,11 @@ namespace zgcwkj
             {
                 string password = Hash.HashTo4Str(StartValue);
                 HttpTest httptest = new HttpTest(StaticClass.url);
-                myMain.ModifyStr(httptest.Post(password), password);
-                StartValue = StartValue + 1;
+                string html = httptest.Post(password);
+                myMain.ModifyStr(html, password);
+
+                if (html.Contains("\"errno\":-9")) StartValue = StartValue + 1;
+                else if (html.Contains("\"errno\":-62")) StartValue = StartValue + 1;
             }
         }
     }
