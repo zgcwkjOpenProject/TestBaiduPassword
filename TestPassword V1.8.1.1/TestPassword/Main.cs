@@ -111,6 +111,8 @@ namespace zgcwkj
 
                 //打开启动按钮
                 btn_status.Enabled = true;
+                //关闭参数调整
+                gb_1.Enabled = false;
             }
         }
 
@@ -125,7 +127,6 @@ namespace zgcwkj
                 btn_status.Text = "启动";
                 btn_status.Enabled = false;
                 StaticClass.status = true;
-                gb_1.Enabled = true;
                 btn_start.Enabled = true;
                 btn_net.Enabled = true;
                 cB_mxwxz.Enabled = true;
@@ -176,7 +177,6 @@ namespace zgcwkj
                 #region 标识程序已经启动
 
                 btn_status.Text = "停止";
-                gb_1.Enabled = false;
                 btn_start.Enabled = false;
                 btn_net.Enabled = false;
                 cB_mxwxz.Enabled = false;
