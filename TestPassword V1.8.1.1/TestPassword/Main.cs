@@ -23,7 +23,7 @@ namespace zgcwkj
                 if (DR == DialogResult.Yes)
                 {
                     File.WriteAllText("zgcwkj", "zgcwkj");
-                    try { System.Diagnostics.Process.Start("https://blog.zgcwkj.top/index.php/archives/367"); } catch { }
+                    try { System.Diagnostics.Process.Start("http://blog.zgcwkj.top/index.php/archives/367.html"); } catch { }
                 }
             }
         }
