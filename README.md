@@ -89,9 +89,9 @@ https://pan.baidu.com/s/1xxx
 
 ## 项目贡献者：
 
-zgcwkj 博客：https://blog.zgcwkj.top
+zgcwkj 博客：http://blog.zgcwkj.cn
 
-Matrix 博客：https://www.imwxz.com
+Matrix 博客：http://www.imwxz.com
 
 kTWO 博客：http://www.k2zone.cn
 
